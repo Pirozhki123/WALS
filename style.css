@@ -407,4 +407,26 @@ footer {
     padding-bottom: 0;
   }
 
+  .profile-contents {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .profile-detail {
+    display: block;
+  }
+
+  .profile-image {
+    width: auto;
+  }
+
+  .profile-detail-sub {
+    width: auto;
+    text-align: center;
+  }
+
+  .profile-my_name {
+    padding: 20px 0 5px 0;
+  }
+
 }
