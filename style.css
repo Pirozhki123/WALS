@@ -172,3 +172,57 @@ header {
   color: #000000;
   text-align: center;
 }
+
+.profile {
+  background-color: #ECEFF1;
+}
+
+.profile-title {
+  padding: 90px 0 8px 0;
+  font-size: 32px;
+  color: #000000;
+  text-align: center;
+}
+
+.profile-text {
+  padding: 30px 0;
+  font-size: 16px;
+  color: #000000;
+  text-align: center;
+}
+
+.profile-detail {
+  width: 1024px;
+  padding-bottom: 90px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.profile-image {
+  width: 512px;
+}
+
+.profile-image_one {
+  width: 250px;
+  height: 250px;
+  margin: 0 auto;
+  background-image: url(img/my-icon.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+}
+
+.profile-detail-sub {
+  width: 512px;
+}
+
+.profile-my_name {
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+.profile-my_skills {
+  font-size: 20px;
+  padding: 20px 0 5px 0;
+}
