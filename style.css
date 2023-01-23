@@ -358,7 +358,7 @@ footer {
 
   .main-visual-contents {
     width: 90%;
-    padding: 90px 0;
+    padding: 200px 0;
     margin: 0 auto;
   }
 
@@ -427,6 +427,34 @@ footer {
 
   .profile-my_name {
     padding: 20px 0 5px 0;
+  }
+
+  .contact-contents {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .contact-box {
+    display: block;
+    text-align: center;
+  }
+
+  .contact-mail {
+    display: block;
+    padding-bottom: 20px;
+  }
+
+  .contact-tel {
+    display: block;
+    padding-bottom: 20px;
+  }
+
+  .contact-sns-icon-item {
+    padding: 0;
+  }
+
+  .csii2 {
+    padding: 0 8px;
   }
 
 }
